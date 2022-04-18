@@ -7,3 +7,4 @@ const test2=() => {
 }
 
 console.log("CM MASTER")
+console.log("CM 2 MASTER")
