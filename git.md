@@ -19,7 +19,8 @@
 - git revert id : loại bỏ 1 commit đó , loại bỏ thay đổi -> không nên dùng nhiều
  
  # branch
- . git branch -a : xem all branch local va remote
+ git branch -a : xem all branch local va remote
+ <br>
  git fetch origin : fetch all from origin
  git fetch origin branch : featch one branch
   
