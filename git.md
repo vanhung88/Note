@@ -1,6 +1,5 @@
 # git flow :
-working directory -> staging area -> local repository -> remote repository
-
+- working directory -> staging area -> local repository -> remote repository
 - git push -u origin <branch name> : push lần đầu lên server , tạo ra một upstream lk giữa local và remote , lần push sau chỉ cần git push
 
 # git commit
