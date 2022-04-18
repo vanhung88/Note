@@ -11,3 +11,9 @@
 * git commit --amend : đè lên commit gần nhất , không tạo ra commit mới
 
 # git reset
+- git reset --soft id : trở về commit(id) -> đưa các commit trước đó về staging
+- git reset --mixed id : trở về commit(id) -> đưa các commit trước đó về working directory
+- git reset --hard id : xóa bỏ các commit và thay đổi nó đi qua
+
+# git revert
+- git revert id : loại bỏ 1 commit đó , loại bỏ thay đổi -> không nên dùng nhiều
