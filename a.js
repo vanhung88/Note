@@ -5,3 +5,5 @@ const test=() => {
 const test2=() => {
     console.log("TEST2")
 }
+
+console.log("CM MASTER")
