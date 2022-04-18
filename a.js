@@ -7,4 +7,4 @@ const test2=() => {
 }
 
 console.log("test no -m")
-console.log("test no -m 0")
+console.log("test no -m 12")
