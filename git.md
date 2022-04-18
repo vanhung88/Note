@@ -22,6 +22,7 @@
  git branch -a : xem all branch local va remote
  <br>
  git fetch origin : fetch all from origin
+ <br>
  git fetch origin branch : featch one branch
   
 # rebase 
